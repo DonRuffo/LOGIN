@@ -10,6 +10,7 @@ public class Main {
         System.out.println("\t Menú");
         System.out.println("1. Tutor");
         System.out.println("2. Estudiante");
+        System.out.println("3. Administrador");
         System.out.println("Ingrese el perfil de usuario: ");
         Scanner opcion=new Scanner(System.in);
         int op=opcion.nextInt();
